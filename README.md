@@ -1,4 +1,4 @@
-### sart 
+### start 
 
 ```
 git clone <url> demo
